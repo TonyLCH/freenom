@@ -328,7 +328,7 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🎉  鸣谢
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer/) （邮件发送功能依赖此库）
 - [guzzle](https://github.com/guzzle/guzzle) （Curl库）
-hvtfjnf67
+hvtfjnf62
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
