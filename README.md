@@ -127,7 +127,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 </details>
 
-#### Telegram bot
+### Telegram bot
 
 
 上面介绍了三种邮箱的设置方法，如果你不想使用邮件推送，也可以使用 Telegram bot，灵活配置。在`.env`文件中，
